@@ -1,7 +1,7 @@
 # Detector de Mutantes - Mercadolibre Challenge
 
 **Autor:** Cecilia Calvo - Legajo 46332  
-**Proyecto:** Parcial Mercadolibre - Detector de ADN Mutante
+**Proyecto:** Global Mercadolibre - Detector de ADN Mutante
 
 ## 📋 Descripción
 
@@ -183,7 +183,7 @@ El algoritmo verifica la matriz de ADN en 4 direcciones:
 
 **Cecilia Calvo**  
 Legajo: 46332  
-Universidad Nacional de La Matanza
+Universidad Tecnologica Nacional FRM
 
 ## 📝 Notas
 
